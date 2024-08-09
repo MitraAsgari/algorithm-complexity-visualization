@@ -43,7 +43,8 @@ def plot_complexity():
     plt.title('Space Complexity')
     plt.xlabel('Input Size')
     plt.ylabel('Memory (Bytes)')
-    
+
+    plt.tight_layout()
     plt.show()
 
 plot_complexity()
