@@ -17,10 +17,8 @@ This repository demonstrates the time and space complexity of various algorithms
    ```bash
    python sorting_algorithms.py
    
-## Requirement
-Python 3.x
-Matplotlib
-Tracemalloc
+## Prerequisites
+Python 3.x Libraries: Matplotlib, Tracemalloc
 
 ## License
 MIT
